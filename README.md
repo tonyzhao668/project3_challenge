@@ -1,17 +1,15 @@
 # project3_challenge to be done solo
 
-## Proposal 21/05/2021
+## Proposal by Tony Zhao/DBSUWA 21/05/2021
 
 ### Data source:
-    1. https://www.usgs.gov/centers/nmic/asia-and-pacific
-    2. Geoscience Australia : https://www.ga.gov.au/
+    sklearn.datasets.fetch_california_housing
+   
+### subject : Machine Learning analysis and visualization California_Housing_Database
 
-### subject : Iron Ore and production in the world and Australia
-
-    Details: will be including the world iron ore reserve, related countries geographic location/production,
-             top ten countries in iron ore production, rank.
-             Australia main iron ore mine locations, history yearly production for several years.
-             Data visualization to deploy leaflet, plotly and D3.   
+    Details: It will include each possible regression ML model and predict for the targets;
+             Visualize the medium income vs HouseAge, AveRooms, AveBedrms, Population etc.
+             Data visualization to deploy Tableau, matplotlib, leaflet, plotly and D3 etc .   
 
 ### Job Schedule:
     22/05/2021 proposal submit;
