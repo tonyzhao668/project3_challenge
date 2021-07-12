@@ -7,9 +7,9 @@
    
 ### subject : Machine Learning analysis and visualization California_Housing_Database
 
-* Details: It will include each possible regression ML model and predict for the targets;
+* Details: It includes each possible regression ML model and predict for the targets;
              Visualize the medium income vs HouseAge, AveRooms, AveBedrms, Population etc.
-             Data visualization to deploy Tableau, matplotlib, leaflet, plotly and D3 etc . 
+             Data visualization to deploy Tableau, matplotlib etc . 
              
 ### Machine Learning operations
 **Outliers Check:**
