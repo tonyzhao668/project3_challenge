@@ -15,6 +15,10 @@
 **Outliers Check:**
 ![Outliers Check](images/dataoutliers.PNG)
 
+**Machine Learning Residual Plot:**
+![Residual Plot](images/residualplot.PNG)
+
+
 
              
 ### Final HTML and some pages:
