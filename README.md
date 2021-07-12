@@ -16,7 +16,7 @@
 ![Outliers Check](images/dataoutliers.PNG)
 
 **Prediction vs Actual:**
-![Outliers Check](images/predic&actual.PNG)
+![Predict vs Actual](images/pred&actual.PNG)
 
 **Machine Learning Residual Plot:**
 ![Residual Plot](images/residualplot.PNG)
