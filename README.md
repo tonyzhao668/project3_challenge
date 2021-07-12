@@ -9,7 +9,24 @@
 
 * Details: It will include each possible regression ML model and predict for the targets;
              Visualize the medium income vs HouseAge, AveRooms, AveBedrms, Population etc.
-             Data visualization to deploy Tableau, matplotlib, leaflet, plotly and D3 etc .   
+             Data visualization to deploy Tableau, matplotlib, leaflet, plotly and D3 etc .  
+             
+### Final HTML and some pages:
+**Home Page:**
+![Home Page](images/home.PNG)
+
+**Rich Area:**
+![Rich Area](images/richarea.PNG)
+
+**House Value VS Income:**
+![House Value vs Income](images/housevalue&income.PNG)
+
+**House Age VS Income:**
+![House Age vs Income](images/houseage&income.PNG)
+
+**Thank you:**
+![Thank you](images/thankyou.PNG)
+
 
 
 # Job done details
