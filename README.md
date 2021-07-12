@@ -15,11 +15,11 @@
 **Outliers Check:**
 ![Outliers Check](images/dataoutliers.PNG)
 
+**Prediction vs Actual:**
+![Outliers Check](images/predic&actual.PNG)
+
 **Machine Learning Residual Plot:**
 ![Residual Plot](images/residualplot.PNG)
-
-
-
              
 ### Final HTML and some pages:
 **Home Page:**
